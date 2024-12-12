@@ -15,5 +15,3 @@ For future modules, I plan to:
 - **Engage More with Supplementary Materials**: Spending more time with additional resources and papers will enhance my comprehension and provide a broader context.
 - **Collaborate with Peers**: Engaging in discussions with classmates about the assignments and readings can offer new insights and diverse perspectives.
 - **Explore Hands-On Projects**: Incorporating practical projects and experiments into my study routine will reinforce theoretical concepts and provide hands-on experience.
-
-This reflection highlights the learning journey in Module 01 and sets a path for continued exploration and improvement in subsequent modules. If you have any further questions or need additional insights, feel free to ask.
