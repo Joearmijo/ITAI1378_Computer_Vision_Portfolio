@@ -5,5 +5,3 @@ This repository contains the labs, assignments, reflections, and final project f
 ## Structure
 
 - **Module_01** to **Module_12**: Each module contains the respective lab and assignment files.
-- **Final_Project**: Contains the final project report and related files.
-- **Resources**: Contains supplementary resources such as articles, videos, and images.
