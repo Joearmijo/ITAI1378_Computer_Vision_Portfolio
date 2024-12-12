@@ -3,7 +3,7 @@
 The Capstone Project marks a significant milestone, combining all the knowledge and skills acquired throughout the ITAI 1378 course. For this project, we are tasked with training an AI agent to play the popular game Flappy Bird. This involves applying advanced machine learning techniques and leveraging our understanding of neural networks and reinforcement learning.
 
 ## ASSIGNMENT
-- **Capstone Project: Train an AI Agent to Play Flappy Bird (100 pts)**: The objective is to develop an AI agent capable of playing Flappy Bird by using reinforcement learning techniques. This project encapsulates the core principles of computer vision, machine learning, and autonomous systems learned throughout the course.
+- **Capstone Project: Train an AI Agent to Play Flappy Bird **: The objective is to develop an AI agent capable of playing Flappy Bird by using reinforcement learning techniques. This project encapsulates the core principles of computer vision, machine learning, and autonomous systems learned throughout the course.
 
 ### Key Takeaways
 
